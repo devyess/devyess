@@ -1,8 +1,19 @@
-- 👋 Hi, I’m @devyess
-- 👀 I’m interested in c++/python programming and machine learning.
-- 🌱 I’m currently learning data structures and algorithms.
-- 💞️ I’m looking to collaborate on machine learning and c++ open source projects.
-- 📫 How to reach me mail--devyessbuchha@gmail.com
+# Hi there 👋
+
+I'm a machine learning and data science enthusiast who loves to explore new datasets, build models, and share insights. I'm currently pursuing a bachelor's degree in computer science at Chandigarh University.
+
+## 🔭 I’m currently working on ...
+
+
+## 🌱 I’m currently learning ...
+
+- Deep learning frameworks such as TensorFlow and PyTorch
+- Cloud computing platforms such as AWS and Google Cloud
+
+## 📫 How to reach me:
+
+- Email: devyessbuchha@gmail.com
+- LinkedIn: https://www.linkedin.com/in/devyess-buchha-81619621a/
 
 <!---
 devyess/devyess is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
