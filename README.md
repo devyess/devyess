@@ -13,7 +13,7 @@ I'm a machine learning and data science enthusiast who loves to explore new data
 ## 📫 How to reach me:
 
 - Email: devyessbuchha@gmail.com
-- LinkedIn: https://www.linkedin.com/in/devyess-buchha-81619621a/
+- LinkedIn: https://www.linkedin.com/in/devyess-buchha/
 
 <!---
 devyess/devyess is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
