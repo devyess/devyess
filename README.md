@@ -1,50 +1,55 @@
-# Devyess Buchha
+# Hey there, I'm **Devyess**! 👋
 
-👋 Hi there! I'm Devyess Buchha, a passionate software developer with expertise in full-stack development and system design.
 
-📫 **Contact:**  
-- 📞 Phone: [9472086045](tel:+919472086045)  
-- 📧 Email: [devyessbuchha@gmail.com](mailto:devyessbuchha@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/devyess-buchha](https://linkedin.com/in/devyess-buchha)
+Welcome to my GitHub profile! I'm a passionate developer who thrives on building efficient, scalable, and exciting software solutions. My journey in the tech world has been full of exploration, learning, and continuous growth. Let's dive into what I do!
 
-## 🛠 Skills
+## 🚀 About Me
 
-### Programming Languages
-- **C** | **C++** | **Java** | **JavaScript**
+I'm currently on a mission to create innovative tech and grow my skills. Here's a peek at where I am today:
 
-### Technical Skills
-- **Frontend:** ReactJS, HTML, CSS, Tailwind CSS
-- **Backend:** NodeJS, Express
-- **Database:** MongoDB, SQL
-- **Other:** Data Structures, Git, GitHub, Linux
+- 🌱 **Learning:** Currently diving deep into **TypeScript, AI/ML**, and exploring **Next.js** for frontend magic.
+- 🔭 **Currently Working On:** Building a **Learning Management System** with the MERN stack and Next.js, and enhancing an **AI-powered task management app**.
+- 👯 **Looking to Collaborate On:** Passionate about Full Stack projects, especially in **Microsevices**, **Websockets**
+- 💬 **Ask Me About:** **React**, **Node.js**, **MERN Stack**, and anything tech!
+- 📫 **How to Reach Me:** Shoot me a message on **[LinkedIn](https://www.linkedin.com/in/devyess-buchha/)** or drop a tweet at **[@devyess](https://twitter.com/devyess)**.
+- ⚡ **Fun Fact:** When I'm not coding, you can find me exploring the latest tech trends or brainstorming new project ideas. Oh, and I can totally beat you in a **ReactJS trivia challenge**. 😉
 
-### Relevant Coursework
-- Operating System | Database and Management System | Computer Networks | Object-Oriented Programming | System Design
+## 🛠️ Technologies & Tools
 
-## 🚀 Projects
+I love working with a variety of technologies that empower me to create modern, fast, and reliable software. Here’s a snapshot of the tools I work with:
 
-### Virtual Payment Prototype
-- **Overview:** A secure payment system designed to optimize transaction processing and ensure data integrity.
-- **Technologies Used:** Express, MongoDB, React, Tailwind CSS, Zod
-- **Key Achievements:**
-  - Led the development, reducing transaction processing time by **30%**.
-  - Improved data accuracy with rigorous input validation, decreasing erroneous submissions by **10%**.
-  - Built a responsive frontend, enhancing the user experience.
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
 
-### Traffic Sign Detection
-- **Overview:** A real-time road sign detection system utilizing a pre-trained CNN model.
-- **Technologies Used:** Python, TensorFlow, Flask, OpenCV
-- **Key Achievements:**
-  - Integrated a CNN model with **93%** accuracy for detecting road signs from user-uploaded images.
-  - Developed a backend system that processes images in **3-4 seconds**.
-  - Optimized the system to handle **50%** more user traffic, reducing server response times.
+## 📊 GitHub Stats
 
-### Interactive Animated Web Platform
-- **Overview:** A fully responsive and animation-rich website to enhance user interaction.
-- **Technologies Used:** HTML, CSS, Locomotive JS
-- **Key Achievements:**
-  - Spearheaded the creation of the website, delivering a highly engaging user interface.
-  - Enhanced scrolling fluidity and user interaction with advanced animations.
+Check out how I'm contributing to the dev community and the cool things I’m building:
 
-## 🌟 Let's Connect!
-I'm always open to discussing new projects, collaborations, or opportunities to learn and grow. Feel free to reach out to me via [email](mailto:devyessbuchha@gmail.com) or connect with me on [LinkedIn](https://linkedin.com/in/devyess-buchha).
+![devyess's GitHub stats](https://github-readme-stats.vercel.app/api?username=devyess&show_icons=true&theme=radical)
+
+## 🏆 Top Languages
+
+These are the languages I code in most frequently:
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devyess&layout=compact&theme=radical)
+
+## 🌍 Let's Connect!
+
+I love collaborating and sharing ideas. Feel free to connect with me on my social platforms:
+
+- [LinkedIn](https://www.linkedin.com/in/devyess/)
+- [Twitter](https://twitter.com/devyess)
+- [Blog](https://devyess.dev/blog)
+
+---
+
+⭐️ **From Devyess with love** – [GitHub Profile](https://github.com/devyess)
